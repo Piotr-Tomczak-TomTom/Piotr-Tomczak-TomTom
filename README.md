@@ -1,5 +1,4 @@
-👋 Hi, I’m @Piotr-Tomczak-TomTom!
-## Hi there, I'm Peter!
+## 👋 Hi there, I'm Peter!
 
 ### I'm student of Computer Science on TUL and developer!
 - I’m currently learning everything.
