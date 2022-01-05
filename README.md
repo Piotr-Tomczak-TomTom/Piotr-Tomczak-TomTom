@@ -1,13 +1,13 @@
 ## 👋 Hi there, I'm Peter!
 
-### I'm student of Computer Science on TUL and developer!
-- I’m currently learning everything.
-- I'm currently working as intern in TomTom.
-- Fun fact: I love to working out.
+I'm a Computer Science student at TUL and a software developer!\
+I’m currently learning everything.\
+I'm currently working as an intern in TomTom.\
+Fun fact: I love working out.
 
 <br />
 
-### Contact with me
+### Contact me
 [<img align="left" alt="Youtube" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733590.png"/>][youtube]
 [<img align="left" alt="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
